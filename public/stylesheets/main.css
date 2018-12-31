@@ -1,0 +1,19 @@
+body{
+    background-color: #f9e6ff;
+}
+
+.thumbnail img {
+    width:100%;
+}
+
+.thumbnail{
+    padding:0;
+}
+
+.caption-full {
+    padding: 10px;
+}
+
+.deleteform{
+    display: inline;
+}
